@@ -2,9 +2,7 @@
 
 A complete end-to-end machine learning project that predicts the price range of mobile phones based on their specifications. The project uses a Random Forest Classifier trained on a dataset of mobile phone features and is deployed as an interactive web application using Streamlit.
 
-[![Streamlit App](https://phone-price-predictor-ra4zffybgfcvkqusspswq3.streamlit.app/)
-
----
+[Streamlit App](https://phone-price-predictor-ra4zffybgfcvkqusspswq3.streamlit.app/)
 
 ## 🚀 Project Overview
 
