@@ -2,7 +2,7 @@
 
 A complete end-to-end machine learning project that predicts the price range of mobile phones based on their specifications. The project uses a Random Forest Classifier trained on a dataset of mobile phone features and is deployed as an interactive web application using Streamlit.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR_STREAMLIT_APP_URL_HERE) <-- *Replace with your app's URL after deploying!*
+[![Streamlit App](https://phone-price-predictor-ra4zffybgfcvkqusspswq3.streamlit.app/)
 
 ---
 
@@ -34,14 +34,3 @@ This is achieved by training a machine learning model on key features like RAM, 
 -   **Machine Learning Libraries:** Scikit-learn, Pandas, NumPy
 -   **Web Framework:** Streamlit
 -   **Model Persistence:** Joblib
-
----
-
-## 🔧 How to Run This Project Locally
-
-Follow these steps to set up and run the project on your own machine.
-
-**1. Clone the repository:**
-```bash
-git clone [https://github.com/YOUR_USERNAME/streamlit-phone-predictor.git](https://github.com/YOUR_USERNAME/streamlit-phone-predictor.git)
-cd streamlit-phone-predictor
